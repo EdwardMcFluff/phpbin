@@ -1,0 +1,62 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.bg{
+    background-image: url("https://i.pinimg.com/originals/96/85/d6/9685d6681bd8d3b3e2d2789cafd3e996.jpg");
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+.logo{
+    height: 10vh;
+    width: auto;
+}
+.nav{
+    height: 10vh;
+    width: 100%;
+    background-color: white;
+}
+
+.leftmarg{
+    margin-left: 30vh;
+    margin-right: 5vh;
+    margin-top: 10vh;
+}
+.rightmarg{
+    margin-left: 5vh;
+    margin-right: 30vh;
+    margin-top: 10vh;
+}
+.mainbg{
+    min-height: 90vh;
+    height: 100%;
+}
+.welcome{
+    line-height: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
